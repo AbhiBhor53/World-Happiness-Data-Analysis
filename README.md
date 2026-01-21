@@ -1,5 +1,5 @@
-World Happiness Data Analysis
-Importing Required Libraries and Loading dataset
+<h1>World Happiness Data Analysis</h1>
+<h2>Importing Required Libraries and Loading dataset</h2>
 
 ```python
 import pandas as pd
